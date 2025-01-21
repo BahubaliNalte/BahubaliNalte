@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bahubali Nalte</h1>
 <h3 align="center">BCA 2nd Year | Full Stack Developer (MERN) | Java | DSA | Git & GitHub | Enthusiastic About Programming and Problem-Solving</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0anJrNjEwN25xb21wN2syc3NqeTA3emdhejgxNzJtMWlhc3NsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahubalinalte&label=Profile%20views&color=0e75b6&style=flat" alt="bahubalinalte" /> </p>
 
+<p align="left"> <a href="https://linkedin.com/in/bahubalinalte" target="blank"><img src="https://img.shields.io/twitter/follow/bahubalinalte?logo=twitter&style=for-the-badge" alt="bahubalinalte" /></a> </p>
 <p align="left"> <a href="https://twitter.com/bahubalinalte" target="blank"><img src="https://img.shields.io/twitter/follow/bahubalinalte?logo=twitter&style=for-the-badge" alt="bahubalinalte" /></a> </p>
 
 - 🌱 I’m currently learning **MERN | Node.js | Java | DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BahubaliNalte](https://github.com/BahubaliNalte)
 
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **bahubalidnalte722006@gmail.com**
 
