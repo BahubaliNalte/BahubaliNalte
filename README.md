@@ -8,13 +8,11 @@
 </div>
 
 <h3 align="center">BCA 2nd Year | Full Stack Developer (MERN) | Java | DSA | Git & GitHub | Enthusiastic About Programming and Problem-Solving</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0anJrNjEwN25xb21wN2syc3NqeTA3emdhejgxNzJtMWlhc3NsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
-
+<img align="right" alt="Coding" width="400" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0anJrNjEwN25xb21wN2syc3NqeTA3emdhejgxNzJtMWlhc3NsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahubalinalte&label=Profile%20views&color=0e75b6&style=flat" alt="bahubalinalte" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/bahubalinalte" target="blank"><img src="https://img.shields.io/twitter/follow/bahubalinalte?logo=twitter&style=for-the-badge" alt="bahubalinalte" /></a> </p>
-<p align="left"> <a href="https://twitter.com/bahubalinalte" target="blank"><img src="https://img.shields.io/twitter/follow/bahubalinalte?logo=twitter&style=for-the-badge" alt="bahubalinalte" /></a> </p>
-
+<img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 - 🌱 I’m currently learning **MERN | Node.js | Java | DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BahubaliNalte](https://github.com/BahubaliNalte)
@@ -32,7 +30,7 @@
 <a href="https://www.leetcode.com/bahubalinalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bahubalinalte" height="30" width="40" /></a>
 </p>
 
-## **Languages and Tools:**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages and Tools:**
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ## **📊 GitHub Stats:**
