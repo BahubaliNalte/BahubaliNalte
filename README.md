@@ -3,15 +3,10 @@
   <img src="./assets/header.png" alt="Banner Image" width="100%"/>
 </p>
 <h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hi%2C+I'm+Bharat.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hi 👋%2C+I'm+Bahubali.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<p align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=bahubalinalte&icon=5&color=5)](https://visitcount.itsvg.in)
-</p>
 </div>
 
-<h1 align="center">Hi 👋, I'm Bahubali Nalte</h1>
 <h3 align="center">BCA 2nd Year | Full Stack Developer (MERN) | Java | DSA | Git & GitHub | Enthusiastic About Programming and Problem-Solving</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0anJrNjEwN25xb21wN2syc3NqeTA3emdhejgxNzJtMWlhc3NsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
