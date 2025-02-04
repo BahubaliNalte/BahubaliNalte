@@ -25,10 +25,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0anJrNjEwN25xb21wN2syc
 
 ## **🌐 Connect With Me:**
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bahubalinalte)
-
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/bahubalinalte)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/BahubaliNalte)
 <p align="left">
-<a href="https://twitter.com/bahubalinalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahubalinalte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bahubalinalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahubalinalte" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bahubalinalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bahubalinalte" height="30" width="40" /></a>
 </p>
 
