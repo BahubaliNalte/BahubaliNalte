@@ -32,9 +32,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh0anJrNjEwN25xb21wN2syc
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages and Tools:**
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,c,python,html&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,c,python,&theme=dark)](https://skillicons.dev)
 ### Frontend Development
-[![Frontend Development](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,figma&theme=dark)](https://skillicons.dev)
+[![Frontend Development](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma&theme=dark)](https://skillicons.dev)
 ### Backend Development
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,dotnet,mysql&theme=dark)](https://skillicons.dev)
 ### Other Tools
